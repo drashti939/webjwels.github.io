@@ -1,0 +1,159 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+.add
+{
+    display: flex;
+    background-color:#AEB6BF;
+    padding: 8px;
+}
+
+.adds
+{
+    display: flex;
+    height: auto;
+
+    
+}
+a
+{
+    color:#212F3C;
+    text-decoration: none;
+
+}
+
+.menu
+{
+    width: 20%;
+    height:auto;
+    background-color:#EBEDEF;
+}
+
+.menu ul li
+{
+   text-decoration: none;
+   padding: 20px;
+   border-bottom: 1px solid black;
+}
+
+
+.left
+{
+    width: 50%;
+    font-size: 15px;
+}
+
+.right
+{
+    width: 50%;
+    text-align: right;
+    font-size: 15px;
+    text-transform: capitalize;
+    color:#34495E;
+}
+
+.main_box
+{
+   width: 80%;
+   padding: 10px;
+}
+
+.form
+{
+    width: 100%;
+    border: 1px solid black;
+    height:auto;
+}
+
+.type
+{
+    display: flex;
+    padding: 10px;
+}
+
+.file
+{
+
+    width:100%;
+    margin: 10px; 
+}
+
+.file1
+{
+    border: 1px solid black;   
+}
+
+.text
+{
+    height: 40px;
+    width: 100%;
+    padding: 8px;
+}
+
+.cate
+{
+    border-bottom: 1px solid black;
+    padding: 10px;
+    font-weight: 600;
+}
+
+.sub
+{
+    padding: 10px;
+}
+
+.but
+{
+    padding: 8px;
+    width: 6%;
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+}
+
+.done
+{
+    margin-bottom: 6px;
+    font-weight: 600;
+}
+
+table
+{
+    width: 100%; 
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 20px;
+    
+}
+table tr th
+{
+    text-align: center !important;
+    padding: 6px;
+}
+
+table tr td
+{
+    text-align: center !important;
+    padding: 10px;
+}
+.view
+{
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10px;
+
+
+}
+
+.fa-user
+{
+    font-size: 15px;
+    color:#212F3C;
+}
+
